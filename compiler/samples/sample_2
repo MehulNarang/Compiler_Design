@@ -1,0 +1,29 @@
+class Utility:InheritedUtility,A,B {
+    int x(int a, int b, int c);
+    int y(int d[10]);
+};
+
+class Utility {
+    int member1;
+    int test(int e);
+};
+
+int Utility::test(int e) {
+    int f;
+    f.a().b=f.c;
+
+    if (f.a>1)then{f.a().b=1;}else{f.a().b=2;};
+    get a;
+    put a;
+    return a;
+
+};
+
+program {
+    for(int t = 0; t<=100 ; t = t + 1) {
+        int x;
+    };
+    int y;
+    int z;
+    x=1;
+};
